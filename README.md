@@ -6,7 +6,6 @@ I am an optimistic person who always tries to give a dedicated effort to get the
 
 Skills: PHP / Laravel Framework / RESTful API / JavaScript / Ajax /HTML / CSS / Bootstrap / React / My SQL / GitHub / Postman
 
-- 🔭 I’m currently working on Lamp Techs 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on github 
 - 📫 How to reach me: [ahasanulislam973@gmail.com](mailto:ahasanulislam973@gmail.com) 
